@@ -1,5 +1,5 @@
-const deployID = 'deploy id here';
-const sheetID = `sheet id here`;
+const deployID = 'AKfycbwgd7GqvI71DIMASQ-hsnATRf0JO4QN1xr3yAfHLRzKPdDii6sbCj2LrwrWSa3Rx7YU';
+const sheetID = `1UaRq5BRb24y0rthukj2ahRRl8GXLfHagSpEZgi3QvX0`;
 
 //Options for relationships and thread tags
 const relationshipSections = `<option value="">(select)</option>
@@ -82,9 +82,9 @@ const heatmapLow = '103, 166, 154';
 const heatmapMid = '111, 155, 104';
 const heatmapHigh = '174, 157, 102';
 const chartColors = [
-    '#6c90c7', //blue
     '#c283ac', //pink
     '#b483c2', //purple
+    '#6c90c7', //blue
     '#699e9c', //teal
     '#afa073', //yellow
     '#a9826b', //orange
